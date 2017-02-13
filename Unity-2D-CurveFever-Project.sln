@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8CE1940E-1248-1286-6D0F-9172FC5E3D57}") = "Unity-2D-CurveFever-Project", "Assembly-CSharp.csproj", "{F5AA1EF5-BAB3-50DE-25F4-3054F99EB6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AA1EF5-BAB3-50DE-25F4-3054F99EB6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AA1EF5-BAB3-50DE-25F4-3054F99EB6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AA1EF5-BAB3-50DE-25F4-3054F99EB6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AA1EF5-BAB3-50DE-25F4-3054F99EB6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
